@@ -1,0 +1,15 @@
+name: microbiome
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - scikit-bio
+  - seaborn
+  - biopython
+  - statsmodels
+prefix: /Users/mattman127/yes/envs/microbiome
